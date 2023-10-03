@@ -1,0 +1,5 @@
+select loc_from, count(*) - sum(customer_not_cancelled) cancellations
+from trips_details
+group by loc_from 
+order by cancellations desc
+limit 1
