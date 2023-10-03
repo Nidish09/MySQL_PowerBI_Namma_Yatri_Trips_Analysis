@@ -1,1 +1,0 @@
-select duration, sum(fare) fares from trips
