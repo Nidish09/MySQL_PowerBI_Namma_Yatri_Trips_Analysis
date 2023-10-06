@@ -1,4 +1,4 @@
-# Mysql_PowerBI_Namma_Yatri_Trips_Analysis
+# MySQL_PowerBI_Namma_Yatri_Trips_Analysis
 As a Data Analyst, I have developed a comprehensive set of SQL queries to analyze and summarize crucial information from a ridesharing company's database. These queries cover various aspects of the business, from trip statistics to payment methods, cancellations, and customer behavior.
 
 •	Total trips, drivers, and earnings are fundamental metrics, while total completed trips provide insight into operational efficiency.
